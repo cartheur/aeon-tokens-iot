@@ -30,5 +30,4 @@ cargo make flash
 ```
 
 ### NOTE
-**After flashing, serial communication between your arduino and pc will be gone. So if you want to put your arduino into bootloader mode you just need to press `rst` button on the board twice.**
-Then you will be able to flash your application to arduino again.
+After flashing, serial communication between your arduino and pc will be gone. So if you want to put your arduino into bootloader mode you just need to press `rst` button on the board twice. Then you will be able to flash your application to arduino again. Very handy when using the same board between this implementation in VSCode verses the Arduino IDE,
