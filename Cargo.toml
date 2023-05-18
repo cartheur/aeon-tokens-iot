@@ -3,7 +3,7 @@ authors = ["Samuel Uncler <sam@meaning-5.com>"]
 edition = "2021"
 readme = "README.md"
 name = "aeon-tokens-iot"
-version = "0.1.0"
+version = "0.1.2"
 
 [dependencies]
 panic-halt = "0.2.0"
