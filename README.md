@@ -18,8 +18,8 @@ rustup component add llvm-tools-preview
 
 ```sh
 cargo build --release
-rust-objcopy -O binary target/thumbv6m-none-eabi/release/aeon-array-33-iot target/aeonarray.bin
-arduino-cli upload -i target/aeonarray.bin -b arduino:samd:nano_33_iot -p /dev/ttyACM0
+rust-objcopy -O binary target/thumbv6m-none-eabi/release/aeon-tokens-iot target/aeon-tokens-iot.bin
+arduino-cli upload -i target/aeon-tokens-iot.bin -b arduino:samd:nano_33_iot -p /dev/ttyACM0
 ```
 ### Automated build and flash
 
