@@ -1,6 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/cartheur/aeon-tokens-iot)](https://github.com/cartheur/aeon-tokens-iot/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/cartheur/aeon-tokens-iot)](https://github.com/cartheur/aeon-tokens-iot/issues)
-[![Build status](https://github.com/github/docs/actions/workflows/rust.yml/badge.svg)
+![Build status](https://github.com/github/docs/actions/workflows/rust.yml/badge.svg)
 
 
 # aeon-tokens-iot
