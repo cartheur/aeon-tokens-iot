@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/cartheur/aeon-tokens-iot)](https://github.com/cartheur/aeon-tokens-iot/issues)
 
 # aeon-tokens-iot
-A project that interweaves emotional exchange with aeon logic to generate tokens as an encapsulation of a human's experience.
+An experiment that will be defined as it is implemented.
 
 ## Building
 
